@@ -108,3 +108,5 @@ This skill gives any designer agent in your Paperclip company instant access to 
 ## License
 
 Design system references are sourced from [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) under their original license. The Paperclip skill wrapper (SKILL.md) is MIT.
+
+<!-- claude review spot-check 2026-10-20; throwaway, will be closed -->
